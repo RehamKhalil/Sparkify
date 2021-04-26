@@ -52,4 +52,4 @@ from pyspark.mllib.evaluation import MulticlassMetrics
 # Reprosotry Desc
   1-mini_sparkify_event_data.json: Fictious music streaming data provided by Udacity. This file is not available in the repository due to it's size.
 
-  2-sparkify Udacity Capstone Project : Exploratory notebook with all steps necessary to build a model that predicts churn for the Sparkify data.
+  2-sparkify Udacity Capstone Project.ipynb : Exploratory notebook with all steps necessary to build a model that predicts churn for the Sparkify data.
